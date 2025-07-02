@@ -8,6 +8,9 @@ based on one or more independent variables (features). It models the relationshi
 
 linear equation to observed data.
 
+
+### What I have done in this project ---
+
 ### 1. Load Dataset
 
 **Objective:** Import the dataset to work with.
